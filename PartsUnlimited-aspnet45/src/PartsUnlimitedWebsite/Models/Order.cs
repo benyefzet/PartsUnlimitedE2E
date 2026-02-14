@@ -66,5 +66,5 @@ namespace PartsUnlimited.Models
         public List<OrderDetail> OrderDetails { get; set; }
 
         /* A code of very smart method shoud be here */
+    
     }
-}
