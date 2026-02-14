@@ -66,5 +66,6 @@ namespace PartsUnlimited.Models
         public List<OrderDetail> OrderDetails { get; set; }
 
         /* A code of very smart method shoud be here */
-    
+        /* A code of very smart seconf method is here */
+        /* A very bad method */
     }
